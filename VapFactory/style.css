@@ -1,0 +1,14 @@
+th{
+    border:2px solid blue;
+}
+td{
+    border:2px solid rgb(0, 255, 221);
+}
+table{
+    display: flex;
+   
+ justify-content: space-evenly;
+}
+div{
+    color:green;
+}
